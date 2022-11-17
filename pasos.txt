@@ -1,0 +1,11 @@
+1- Se debe tomar el grupo
+
+2- Se llena un array para clasificar los numeros
+
+3- Se estudian los casos 
+
+4- Se devuelve la posicion pertinente al caso en el grupo
+
+5- Se devuelve el ciclo particular
+
+6- Se regresa el numero particular
